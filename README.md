@@ -1,6 +1,16 @@
-# My Base Repository
+# DOCKERIZE GRAPHICAL USER INTERFACE APP
 
-Some short description here...
+A base *Docker Image* to *Dockerize* any App with a **G**raphical **U**ser **I**nterface.
+
+Check this [Demo](https://hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app-demo) for a basic example.
+
+
+## SHOW YOUR APPRECIATION
+
+If this is useful for you, please consider:
+
+* Share it on [Twitter](https://twitter.com/home?status=https%3A//hub.docker.com/r/exadra37/dockerize-graphical-user-interface-app%20%23Developers,%20%23DevOps%20and%20%23SysAsmin%20can%20%23Dockerize%20any%20%23App%20and%20run%20it%20from%20inside%20%23docker%20container.%20by%20%40Exadra37.%20).
+* And why not [Pay me](https://www.paypal.me/exadra37) also a coffee, a beer, a dinner or any other treat 😎.
 
 
 ## SEMANTIC VERSIONING
