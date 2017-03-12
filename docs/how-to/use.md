@@ -4,5 +4,5 @@ Use this [Dockerize GUI APP Demo](https://gitlab.com/exadra37-docker-images/dock
 
 >**IMPORTANT**
 >
-> In order to persist data created inside the Container, by the App, we need to discover where is being saved and map it to the Host when we trigger the Docker Build.
+> In order to persist data created inside the Container, we need to discover where is being saved and map it to the Host when we start the Container...
 >

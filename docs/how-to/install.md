@@ -1,7 +1,5 @@
 # HOW TO INSTALL
 
-# HOW TO INSTALL
-
 #### Git Clone Project
 
 ```bash
