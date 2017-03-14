@@ -12,7 +12,7 @@ All optional topics not used must maintain their title and have their body repla
 
 When any created issue do not follow this guidelines it will not be considered.
 
-Each issue will have is own Branch that are created as demonstrated [here](docs/how-to/create_branches).
+Each issue will have is own Branch that are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/create_branches).
 
 
 ## Bug Fix / Security Fix
@@ -36,3 +36,6 @@ Create each issue [here](https://gitlab.com/exadra37-docker-images/dockerize-app
 * `new_feature.md`
 * `improve_feature.md`
 * `refracting_code.md`
+
+
+[Home](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app)

@@ -26,3 +26,6 @@ After an agreement is achieved the issue will be assigned to you.
 Now is time to fork the repository and start coding on it.
 
 When you are ready to merge it, please proceed as per this [Merge Requests Guidelines](docs/how-to/create_a_merge_request.md).
+
+
+[Home](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app)
