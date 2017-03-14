@@ -1,6 +1,6 @@
 # HOW TO USE
 
-Use this [Dockerize GUI APP Demo](https://gitlab.com/exadra37-docker-images/dockerize-gui-app-demo) as the base to *Dockerize* your own App.
+Use this [Dockerize GUI APP Demo](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app-demo) as the base to *Dockerize* your own App.
 
 >**IMPORTANT**
 >
