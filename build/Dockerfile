@@ -93,12 +93,10 @@ RUN apt-get update && \
     # Add $CONTAINER_USER
     #
     # If the GUI App being Dockerized needs a Sudo User, please set it in the image that will extend from this one
-    #  to DOckerize it.
-    useradd -m "${CONTAINER_USER}" && \
+    #  to Dockerize it.
+    useradd -m -u "${CONTAINER_UID}" -s "${CONTAINER_SHELL}" "${CONTAINER_USER}" && \
     echo "${CONTAINER_USER}:${CONTAINER_USER}" | chpasswd && \
-    usermod --shell "${CONTAINER_SHELL}" "${CONTAINER_USER}" && \
-    usermod  --uid "${CONTAINER_UID}" "${CONTAINER_USER}" && \
-    groupmod --gid "${CONTAINER_GID}" "${CONTAINER_USER}" && \
+
 
     # Setup Shell for $CONTAINER_USER
     # If the Shell is not Bash or Sh we need to install it from $HOST_SETUP_USER_SHELL_FILE
