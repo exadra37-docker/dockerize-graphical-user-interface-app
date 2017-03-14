@@ -5,7 +5,7 @@ Depending on the type of issue the branch for it will have a different origin.
 
 ## BUG FIX / SECURITY FIX
 
-As per [Issues Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/create_an_issue.md) we do not need to have a Milestone for it.
+As per [Issues Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/create_an_issue.md) we do not need to have a Milestone for it.
 
 Considering that we have issue number `4` with title `Fix Email Validation`.
 
@@ -16,7 +16,7 @@ git fetch && git checkout -b issue-4_fix-email-validation origin/master
 
 ## NEW FEATURE / IMPROVE FEATURE / REFRACTING CODE
 
-As per [Issues Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/create_an_issue.md) we must have a Milestone for this type of requirement.
+As per [Issues Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/create_an_issue.md) we must have a Milestone for this type of requirement.
 
 Once the Milestone can be split in several issues, lets imagine:
 

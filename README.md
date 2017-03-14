@@ -20,22 +20,22 @@ This package will adhere to this [Semantic Version](https://gitlab.com/exadra37-
 
 ## AUTHOR
 
-More information about the Author can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/AUTHOR.md).
+More information about the Author can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/AUTHOR.md).
 
 
 ## CONTRIBUTORS
 
-All contributors can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/CONTRIBUTORS.md).
+All contributors can be found [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/CONTRIBUTORS.md).
 
 
 ## LICENSE
 
-This repository uses GPL-3.0 license, that you can find [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/LICENSE).
+This repository uses GPL-3.0 license, that you can find [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/LICENSE).
 
 
 ## CONTRIBUTING IN ISSUES / MERGE REQUESTS
 
-All contributions are welcome provided that they follow [Contributing Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/CONTRIBUTING.md), where you can find
+All contributions are welcome provided that they follow [Contributing Guidelines](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/CONTRIBUTING.md), where you can find
 how to _Create an Issue_ and _Merge Request_.
 
 
@@ -48,22 +48,22 @@ Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-app/boards) t
 
 ## HOW TO INSTALL
 
-To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/install.md).
+To install just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/install.md).
 
 
 ## HOW TO UNINSTALL
 
-To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/uninstall.md).
+To uninstall just follow detailed instructions from [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/uninstall.md).
 
 
 ## HOW TO USE
 
-See usage examples [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/use.md).
+See usage examples [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/use.md).
 
 
 ## BRANCHES
 
-Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/docs/how-to/create_branches.md).
+Branches are created as demonstrated [here](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/blob/master/docs/how-to/create_branches.md).
 
 This are the type of branches we can see at any moment in the repository:
 
