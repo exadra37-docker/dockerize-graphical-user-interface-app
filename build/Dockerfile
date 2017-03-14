@@ -103,9 +103,10 @@ RUN apt-get update && \
     # For ZSH shell a default installation is provided in the script we are invoking...
     bash ./.container/setup-user-shell.sh "${CONTAINER_USER}" "${CONTAINER_SHELL}" "${HOST_SETUP_USER_SHELL_FILE}" && \
 
-    # We must create .config and .cache folder or we end up with it belonging to root user
+    # We must create .config, .cache and .local folders specifying the container user or we end up with it belonging to root user
     su "${CONTAINER_USER}" -c 'mkdir /home/"${CONTAINER_USER}"/.config' && \
     su "${CONTAINER_USER}" -c 'mkdir /home/"${CONTAINER_USER}"/.cache' && \
+    su "${CONTAINER_USER}" -c 'mkdir -p /home/${CONTAINER_USER}/.local/share' && \
 
     # Cleaning
     rm -rvf /var/lib/apt/lists/*
