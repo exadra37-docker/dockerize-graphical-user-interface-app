@@ -48,14 +48,13 @@ ARG DEBIAN_FRONTEND=noninteractive
 #   - But this Dockefile will be also used to build the Docker Image, with this defaults, to be hosted in Docker Hub.
 #
 # Override with docker build --build-arg key=value
-ARG CONTAINER_USER="${CONTAINER_USER:-dockerize-gui-app}"
+ARG CONTAINER_USER="${CONTAINER_USER:-dockerize}"
 ARG CONTAINER_UID="${CONTAINER_UID:-2000}"
-ARG CONTAINER_GID="${CONTAINER_GID:-2000}"
 ARG CONTAINER_ENTRYPOINT="${CONTAINER_ENTRYPOINT:-'./entrypoint.sh'}"
 ARG CONTAINER_LANG="${CONTAINER_LANG:-'en_GB:en'}"
 ARG CONTAINER_LOCALE="${CONTAINER_LOCALE:-'en_GB.UTF-8'}"
 ARG CONTAINER_SHELL="${CONTAINER_SHELL:-'/usr/bin/zsh'}"
-ARG HOST_SETUP_USER_SHELL_FILE="${HOST_SETUP_USER_SHELL_FILE:-~/.dockerize-gui-app/setup-user-shell.sh}"
+ARG HOST_SETUP_USER_SHELL_FILE="${HOST_SETUP_USER_SHELL_FILE:-~/.dockerize/setup-user-shell.sh}"
 
 # Use this script to setup your preferred Shell...
 #
