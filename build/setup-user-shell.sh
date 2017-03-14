@@ -7,7 +7,7 @@
 #
 # Social Links:
 # @link    Auhthor:  https://exadra37.com
-# @link    Github:   https://gitlab.com/Exadra37
+# @link    Gitlab:   https://gitlab.com/Exadra37
 # @link    Github:   https://github.com/Exadra37
 # @link    Linkedin: https://uk.linkedin.com/in/exadra37
 # @link    Twitter:  https://twitter.com/Exadra37
