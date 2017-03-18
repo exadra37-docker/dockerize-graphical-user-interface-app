@@ -41,9 +41,9 @@ how to _Create an Issue_ and _Merge Request_.
 
 ## ROAD MAP
 
-Check [Milestones](https://gitlab.com/exadra37-docker-images/dockerize-app/milestones) to see what Goals I want to achieve.
+Check [Milestones](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/milestones) to see what Goals I want to achieve.
 
-Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-app/boards) to keep track of what is going on.
+Watch [Boards](https://gitlab.com/exadra37-docker-images/dockerize-graphical-user-interface-app/boards) to keep track of what is going on.
 
 
 ## HOW TO INSTALL
